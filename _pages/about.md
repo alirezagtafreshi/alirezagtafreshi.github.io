@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>205</p>
-    <p>UBC Biodiversity Research Center</p>
+    <p>UBC Biodiversity Research Center Room 205</p>
     <p>Vancouver, BC</p>
 
 news: true # includes a list of news items
