@@ -7,9 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Teaching:
-
-**Biomathematics (BIOL 301 Winter 2023) **
+**Biomathematics (BIOL 301 Winter 2023)**
 
   A foundational course in biological modelling. The course follows the textbook “Mathematical Modelling for Biologists” by Sally Otto and Troy Day. 
   
