@@ -13,5 +13,5 @@ nav_order: 6
 
 Biostatistics (BIOL 300 Summer 2023)
 
-  A first course in statistics following the [textbook](https://whitlockschluter3e.zoology.ubc.ca/index.html) “The analysis of Biological Data” by Michael Whitlock and Dolph Schluter. 
+  A first course in statistics following the [textbook](https://whitlockschluter3e.zoology.ubc.ca/index.html) “The Analysis of Biological Data” by Michael Whitlock and Dolph Schluter. 
 
